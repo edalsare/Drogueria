@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: farmacia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-25 10:36-0500\n"
+"PO-Revision-Date: 2014-11-25 10:56-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: es\n"
+
+#: ctl_ventana.py:31
+msgid "Title Application - 2014"
+msgstr "Titulo de la aplicacion -2014"
+
+#: gui_farmacia.glade:86 gui_farmacia.glade:409 gui_farmacia.glade:624
+#: gui_farmacia.glade:775
+msgid "Add"
+msgstr "Adicionar"
+
+#: gui_farmacia.glade:100
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: gui_farmacia.glade:143
+msgid "Enter number of products"
+msgstr "Ingresar numero de productos"
+
+#: gui_farmacia.glade:207
+msgid "File"
+msgstr "Archivo"
+
+#: gui_farmacia.glade:254
+msgid "Help"
+msgstr "Ayuda"
+
+#: gui_farmacia.glade:356
+msgid "Product Code:"
+msgstr "Codigo del producto:"
+
+#: gui_farmacia.glade:370 gui_farmacia.glade:537 gui_farmacia.glade:726
+#: gui_farmacia.glade:1271
+msgid "Name:"
+msgstr "Nombre:"
+
+#: gui_farmacia.glade:384
+msgid "Cost:"
+msgstr "Precio:"
+
+#: gui_farmacia.glade:398
+msgid "Quantity:"
+msgstr "Cantidad:"
+
+#: gui_farmacia.glade:493
+msgid "Enter Product"
+msgstr "Ingresar producto"
+
+#: gui_farmacia.glade:523
+msgid "Seller Code:"
+msgstr "Código del vendedor"
+
+#: gui_farmacia.glade:551 gui_farmacia.glade:740 gui_farmacia.glade:926
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: gui_farmacia.glade:565
+msgid "Email:"
+msgstr "Correo electronico:"
+
+#: gui_farmacia.glade:659
+msgid "Enter Seller"
+msgstr "Ingresar vendedor"
+
+#: gui_farmacia.glade:674
+msgid "Pharmacy"
+msgstr "Farmacia"
+
+#: gui_farmacia.glade:712 gui_farmacia.glade:912
+msgid "Identification:"
+msgstr "Identificación"
+
+#: gui_farmacia.glade:790
+msgid "Accept"
+msgstr "Aceptar"
+
+#: gui_farmacia.glade:831
+msgid "Client information"
+msgstr "Información del cliente"
+
+#: gui_farmacia.glade:870
+msgid "Invoice Number:"
+msgstr "Numero de factura:"
+
+#: gui_farmacia.glade:884
+msgid "Date:"
+msgstr "Fecha:"
+
+#: gui_farmacia.glade:898
+msgid "Client Name:"
+msgstr "Nombre del cliente:"
+
+#: gui_farmacia.glade:1025 gui_farmacia.glade:1398
+msgid "Code"
+msgstr "Código"
+
+#: gui_farmacia.glade:1032 gui_farmacia.glade:1404
+msgid "Name"
+msgstr "Nombre"
+
+#: gui_farmacia.glade:1039 gui_farmacia.glade:1410
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: gui_farmacia.glade:1046
+msgid "Unit value"
+msgstr "Valor unitario"
+
+#: gui_farmacia.glade:1053
+msgid "IVA"
+msgstr "IVA"
+
+#: gui_farmacia.glade:1060
+msgid "Total value"
+msgstr "Valor total"
+
+#: gui_farmacia.glade:1074
+msgid "Products"
+msgstr "Productos"
+
+#: gui_farmacia.glade:1090
+msgid "seller code:"
+msgstr "Codigo del vendedor"
+
+#: gui_farmacia.glade:1104
+msgid "Seller Name:"
+msgstr "Nombre del vendedor:"
+
+#: gui_farmacia.glade:1142
+msgid "Iva:"
+msgstr "Iva:"
+
+#: gui_farmacia.glade:1156
+msgid "Total:"
+msgstr "Total:"
+
+#: gui_farmacia.glade:1167
+msgid "Save"
+msgstr "Guardar"
+
+#: gui_farmacia.glade:1236
+msgid "Invoice"
+msgstr "Factura"
+
+#: gui_farmacia.glade:1285
+msgid "Code:"
+msgstr "Código:"
+
+#: gui_farmacia.glade:1320 gui_farmacia.glade:1362
+msgid "Search"
+msgstr "Buscar"
+
+#: gui_farmacia.glade:1336
+msgid "All"
+msgstr "Todos"
+
+#: gui_farmacia.glade:1416
+msgid "Cost"
+msgstr "Precio"
+
+#: gui_farmacia.glade:1430
+msgid "Products available"
+msgstr "Productos disponibles"
+
+#: gui_farmacia.glade:1462
+msgid "Make sell"
+msgstr "Realizar venta"

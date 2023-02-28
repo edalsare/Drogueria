@@ -1,0 +1,277 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# EDISON <edison@edison>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ventana\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-07 15:21-0500\n"
+"PO-Revision-Date: 2014-12-08 20:54-0500\n"
+"Last-Translator: ventana\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: ctl_ventana.py:71
+msgid "Pharmacy - 2014"
+msgstr "Droguería - 2014"
+
+#: ctl_ventana.py:164
+msgid "New Database Drugstore"
+msgstr "Nueva Base de datos Droguería"
+
+#: ctl_ventana.py:172
+msgid "new base.db"
+msgstr "nueva base.db"
+
+#: ctl_ventana.py:179
+msgid "Select Database"
+msgstr "Seleccione una Base de datos"
+
+#: ctl_ventana.py:221
+msgid "base de datos"
+msgstr "Base de Datos"
+
+#: ctl_ventana.py:243
+msgid "The product code field can not be empty"
+msgstr "El campo del código de producto no puede ser vacío "
+
+#: ctl_ventana.py:247
+msgid "The Product Name field can not be empty"
+msgstr "El campo del Nombre de producto no puede ser vacío "
+
+#: ctl_ventana.py:254
+msgid "Verify that price and quantity data must be numerical"
+msgstr ""
+"Verifique que los datos de precio y cantidad \n"
+" deben ser de tipo numérico "
+
+#: ctl_ventana.py:258
+msgid "enter amounts greater than zero"
+msgstr "ingresar cantidades mayores que cero"
+
+#: ctl_ventana.py:276 ctl_ventana.py:389 ctl_ventana.py:562
+msgid "verify that all fields are complete"
+msgstr "verifique que todos los campos estén completos"
+
+#: ctl_ventana.py:326
+msgid "Update"
+msgstr "Actualizar"
+
+#: ctl_ventana.py:338 gui_farmacia.glade:124 gui_farmacia.glade:487
+#: gui_farmacia.glade:749 gui_farmacia.glade:915
+msgid "Add"
+msgstr "Añadir"
+
+#: ctl_ventana.py:510
+msgid "income exceeds the amount that the actual amount of products"
+msgstr "la cantidad que ingreso supera la cantidad actual de productos"
+
+#: ctl_ventana.py:512
+msgid "enter only numbers that is positive"
+msgstr "ingrese únicamente números que sea positivos"
+
+#: ctl_ventana.py:514
+msgid "Only enter numbers greater than zero"
+msgstr "Únicamente ingrese números mayores que cero "
+
+#: ctl_ventana.py:519
+msgid "This product is out for now"
+msgstr "este producto esta agotado por el momento "
+
+#: ctl_ventana.py:560
+msgid "Enter the date"
+msgstr "Ingrese la fecha"
+
+#: gui_farmacia.glade:11
+msgid ""
+"Nariño University\n"
+"computer technology\n"
+"2014"
+msgstr ""
+"Universidad de Nariño\n"
+"Tecnología  en computación\n"
+"2014"
+
+#: gui_farmacia.glade:41 gui_farmacia.glade:42
+msgid "New"
+msgstr "Nuevo"
+
+#: gui_farmacia.glade:50 gui_farmacia.glade:51
+msgid "Open"
+msgstr "Abrir"
+
+#: gui_farmacia.glade:59 gui_farmacia.glade:60
+msgid "Close"
+msgstr "Cerrar"
+
+#: gui_farmacia.glade:140 gui_farmacia.glade:1408
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: gui_farmacia.glade:156
+msgid "Remove"
+msgstr "Quitar"
+
+#: gui_farmacia.glade:201
+msgid "Enter number of products"
+msgstr "Ingrese numero de productos"
+
+#: gui_farmacia.glade:265
+msgid "File"
+msgstr "Archivo"
+
+#: gui_farmacia.glade:315
+msgid "Help"
+msgstr "Ayuda"
+
+#: gui_farmacia.glade:434
+msgid "Product Code:"
+msgstr "Código del producto:"
+
+#: gui_farmacia.glade:448 gui_farmacia.glade:655 gui_farmacia.glade:866
+#: gui_farmacia.glade:1481
+msgid "Name:"
+msgstr "Nombre:"
+
+#: gui_farmacia.glade:462
+msgid "Cost:"
+msgstr "Precio:"
+
+#: gui_farmacia.glade:476
+msgid "Quantity:"
+msgstr "Cantidad"
+
+#: gui_farmacia.glade:610
+msgid "Enter Product"
+msgstr "Ingrese Producto"
+
+#: gui_farmacia.glade:641
+msgid "Seller Code:"
+msgstr "Código del vendedor"
+
+#: gui_farmacia.glade:669 gui_farmacia.glade:880 gui_farmacia.glade:1075
+msgid "Phone:"
+msgstr "Teléfono"
+
+#: gui_farmacia.glade:683
+msgid "Email:"
+msgstr "Correo electrónico"
+
+#: gui_farmacia.glade:799
+msgid "Enter Seller"
+msgstr "Ingresar vendedor"
+
+#: gui_farmacia.glade:814
+msgid "Pharmacy"
+msgstr "Farmacia"
+
+#: gui_farmacia.glade:852 gui_farmacia.glade:1061
+msgid "Identification:"
+msgstr "Identificación:"
+
+#: gui_farmacia.glade:933
+msgid "Accept"
+msgstr "Aceptar"
+
+#: gui_farmacia.glade:980
+msgid "Client information"
+msgstr "Información del cliente"
+
+#: gui_farmacia.glade:1019
+msgid "Invoice Number:"
+msgstr "Numero de factura:"
+
+#: gui_farmacia.glade:1033
+msgid "Date:"
+msgstr "Fecha"
+
+#: gui_farmacia.glade:1047
+msgid "Client Name:"
+msgstr "Nombre del cliente:"
+
+#: gui_farmacia.glade:1103
+msgid "dd-mm-yyyy"
+msgstr "dd-mm-yyyy"
+
+#: gui_farmacia.glade:1184 gui_farmacia.glade:1612
+msgid "Code"
+msgstr "Código"
+
+#: gui_farmacia.glade:1197 gui_farmacia.glade:1624
+msgid "Name"
+msgstr "Nombre"
+
+#: gui_farmacia.glade:1210 gui_farmacia.glade:1636
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: gui_farmacia.glade:1223
+msgid "Unit value"
+msgstr "valor Unitario"
+
+#: gui_farmacia.glade:1236
+msgid "IVA"
+msgstr "IVA"
+
+#: gui_farmacia.glade:1249
+msgid "Total value"
+msgstr "Valor total"
+
+#: gui_farmacia.glade:1269
+msgid "Products"
+msgstr "Productos"
+
+#: gui_farmacia.glade:1285
+msgid "seller code:"
+msgstr "Código del vendedor:"
+
+#: gui_farmacia.glade:1299
+msgid "Seller Name:"
+msgstr "Nombre del vendedor:"
+
+#: gui_farmacia.glade:1353
+msgid "IVA:"
+msgstr "IVA:"
+
+#: gui_farmacia.glade:1367
+msgid "Total:"
+msgstr "Total:"
+
+#: gui_farmacia.glade:1378
+msgid "end up"
+msgstr "Finalizar"
+
+#: gui_farmacia.glade:1446
+msgid "Invoice"
+msgstr "Factura"
+
+#: gui_farmacia.glade:1495
+msgid "Code:"
+msgstr "Código:"
+
+#: gui_farmacia.glade:1530 gui_farmacia.glade:1574
+msgid "Search"
+msgstr "Buscar"
+
+#: gui_farmacia.glade:1547
+msgid "All"
+msgstr "Todo"
+
+#: gui_farmacia.glade:1653
+msgid "Cost"
+msgstr "Precio"
+
+#: gui_farmacia.glade:1679
+msgid "Products available"
+msgstr "Productos disponibles"
+
+#: gui_farmacia.glade:1711
+msgid "Make sell"
+msgstr "Realizar venta"

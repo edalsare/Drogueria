@@ -1,0 +1,271 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-07 15:21-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ctl_ventana.py:71
+msgid "Pharmacy - 2014"
+msgstr ""
+
+#: ctl_ventana.py:164
+msgid "New Database Drugstore"
+msgstr ""
+
+#: ctl_ventana.py:172
+msgid "new base.db"
+msgstr ""
+
+#: ctl_ventana.py:179
+msgid "Select Database"
+msgstr ""
+
+#: ctl_ventana.py:221
+msgid "base de datos"
+msgstr ""
+
+#: ctl_ventana.py:243
+msgid "The product code field can not be empty"
+msgstr ""
+
+#: ctl_ventana.py:247
+msgid "The Product Name field can not be empty"
+msgstr ""
+
+#: ctl_ventana.py:254
+msgid "Verify that price and quantity data must be numerical"
+msgstr ""
+
+#: ctl_ventana.py:258
+msgid "enter amounts greater than zero"
+msgstr ""
+
+#: ctl_ventana.py:276 ctl_ventana.py:389 ctl_ventana.py:562
+msgid "verify that all fields are complete"
+msgstr ""
+
+#: ctl_ventana.py:326
+msgid "Update"
+msgstr ""
+
+#: ctl_ventana.py:338 gui_farmacia.glade:124 gui_farmacia.glade:487
+#: gui_farmacia.glade:749 gui_farmacia.glade:915
+msgid "Add"
+msgstr ""
+
+#: ctl_ventana.py:510
+msgid "income exceeds the amount that the actual amount of products"
+msgstr ""
+
+#: ctl_ventana.py:512
+msgid "enter only numbers that is positive"
+msgstr ""
+
+#: ctl_ventana.py:514
+msgid "Only enter numbers greater than zero"
+msgstr ""
+
+#: ctl_ventana.py:519
+msgid "This product is out for now"
+msgstr ""
+
+#: ctl_ventana.py:560
+msgid "Enter the date"
+msgstr ""
+
+#: gui_farmacia.glade:11
+msgid ""
+"Nariño University\n"
+"computer technology\n"
+"2014"
+msgstr ""
+
+#: gui_farmacia.glade:41 gui_farmacia.glade:42
+msgid "New"
+msgstr ""
+
+#: gui_farmacia.glade:50 gui_farmacia.glade:51
+msgid "Open"
+msgstr ""
+
+#: gui_farmacia.glade:59 gui_farmacia.glade:60
+msgid "Close"
+msgstr ""
+
+#: gui_farmacia.glade:140 gui_farmacia.glade:1408
+msgid "Cancel"
+msgstr ""
+
+#: gui_farmacia.glade:156
+msgid "Remove"
+msgstr ""
+
+#: gui_farmacia.glade:201
+msgid "Enter number of products"
+msgstr ""
+
+#: gui_farmacia.glade:265
+msgid "File"
+msgstr ""
+
+#: gui_farmacia.glade:315
+msgid "Help"
+msgstr ""
+
+#: gui_farmacia.glade:434
+msgid "Product Code:"
+msgstr ""
+
+#: gui_farmacia.glade:448 gui_farmacia.glade:655 gui_farmacia.glade:866
+#: gui_farmacia.glade:1481
+msgid "Name:"
+msgstr ""
+
+#: gui_farmacia.glade:462
+msgid "Cost:"
+msgstr ""
+
+#: gui_farmacia.glade:476
+msgid "Quantity:"
+msgstr ""
+
+#: gui_farmacia.glade:610
+msgid "Enter Product"
+msgstr ""
+
+#: gui_farmacia.glade:641
+msgid "Seller Code:"
+msgstr ""
+
+#: gui_farmacia.glade:669 gui_farmacia.glade:880 gui_farmacia.glade:1075
+msgid "Phone:"
+msgstr ""
+
+#: gui_farmacia.glade:683
+msgid "Email:"
+msgstr ""
+
+#: gui_farmacia.glade:799
+msgid "Enter Seller"
+msgstr ""
+
+#: gui_farmacia.glade:814
+msgid "Pharmacy"
+msgstr ""
+
+#: gui_farmacia.glade:852 gui_farmacia.glade:1061
+msgid "Identification:"
+msgstr ""
+
+#: gui_farmacia.glade:933
+msgid "Accept"
+msgstr ""
+
+#: gui_farmacia.glade:980
+msgid "Client information"
+msgstr ""
+
+#: gui_farmacia.glade:1019
+msgid "Invoice Number:"
+msgstr ""
+
+#: gui_farmacia.glade:1033
+msgid "Date:"
+msgstr ""
+
+#: gui_farmacia.glade:1047
+msgid "Client Name:"
+msgstr ""
+
+#: gui_farmacia.glade:1103
+msgid "dd-mm-yyyy"
+msgstr ""
+
+#: gui_farmacia.glade:1184 gui_farmacia.glade:1612
+msgid "Code"
+msgstr ""
+
+#: gui_farmacia.glade:1197 gui_farmacia.glade:1624
+msgid "Name"
+msgstr ""
+
+#: gui_farmacia.glade:1210 gui_farmacia.glade:1636
+msgid "Quantity"
+msgstr ""
+
+#: gui_farmacia.glade:1223
+msgid "Unit value"
+msgstr ""
+
+#: gui_farmacia.glade:1236
+msgid "IVA"
+msgstr ""
+
+#: gui_farmacia.glade:1249
+msgid "Total value"
+msgstr ""
+
+#: gui_farmacia.glade:1269
+msgid "Products"
+msgstr ""
+
+#: gui_farmacia.glade:1285
+msgid "seller code:"
+msgstr ""
+
+#: gui_farmacia.glade:1299
+msgid "Seller Name:"
+msgstr ""
+
+#: gui_farmacia.glade:1353
+msgid "IVA:"
+msgstr ""
+
+#: gui_farmacia.glade:1367
+msgid "Total:"
+msgstr ""
+
+#: gui_farmacia.glade:1378
+msgid "end up"
+msgstr ""
+
+#: gui_farmacia.glade:1446
+msgid "Invoice"
+msgstr ""
+
+#: gui_farmacia.glade:1495
+msgid "Code:"
+msgstr ""
+
+#: gui_farmacia.glade:1530 gui_farmacia.glade:1574
+msgid "Search"
+msgstr ""
+
+#: gui_farmacia.glade:1547
+msgid "All"
+msgstr ""
+
+#: gui_farmacia.glade:1653
+msgid "Cost"
+msgstr ""
+
+#: gui_farmacia.glade:1679
+msgid "Products available"
+msgstr ""
+
+#: gui_farmacia.glade:1711
+msgid "Make sell"
+msgstr ""
